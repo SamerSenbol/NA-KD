@@ -2,6 +2,9 @@
     .hero .left img {
         display: none;
     }
+    .hero .right {
+        width: 100%; 
+    }
     .hero {
         display: grid;
         grid-template-columns: 1fr;
